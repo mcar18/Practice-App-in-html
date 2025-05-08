@@ -38,20 +38,3 @@ We retain your personal data only as long as necessary to fulfill the purposes d
 * We do **not** sell your personal data to third parties.
 * We may share information with trusted service providers who perform services on our behalf, subject to confidentiality obligations.
 
-### 7. Your Rights
-
-* **Access & Correction:** You may request a copy of the personal data we hold about you and ask us to correct any inaccuracies.
-* **Deletion:** You can request deletion of your data at any time; we will remove it from our systems unless legally required to retain it.
-
-### 8. Changes to This Policy
-
-We may update this policy to reflect changes in our practices. We will post the revised policy with a new "Effective Date."
-
-### 9. Contact Us
-
-If you have any questions or wish to exercise your rights, please contact us at:
-
-* **Email:** [privacy@yourdomain.com](mailto:privacy@yourdomain.com)
-* **Address:** 123 AI Agent Lane, Suite 100
-
-Thank you for trusting AI Agent with your information.
